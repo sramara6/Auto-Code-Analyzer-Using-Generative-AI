@@ -26,6 +26,23 @@ conda activate llmapp
 pip install -r requirements.txt
 ```
 
-```bash
+### STEP 03-Run the app on terminal with following command
 
+```bash
+Python app.py
 ```
+
+### STEP 04- Open up Local Host
+
+```bash
+localhost:8080
+```
+
+### Techstack
+
+-Python
+-Langchain
+-Flask
+-OpenAI
+-GPT 3
+-ChromaDB
